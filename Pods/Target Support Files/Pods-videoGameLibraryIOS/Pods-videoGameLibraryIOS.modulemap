@@ -1,0 +1,6 @@
+framework module Pods_videoGameLibraryIOS {
+  umbrella header "Pods-videoGameLibraryIOS-umbrella.h"
+
+  export *
+  module * { export * }
+}
